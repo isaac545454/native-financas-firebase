@@ -18,7 +18,7 @@
   <li>login/cadastro</li>
   <li>cadastro de dados</li>
   <li>exclusão de dados</li>
-  <li>ler dados de dias anteriores<li>
+  <li>ler dados de dias anteriores</li>
   <li>sair da conta logada</li>
   <li>salvar login no async storage</li>
 </ul>
